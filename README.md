@@ -1,4 +1,4 @@
 # Demogit
 This is my first repository
 <br>
-Author-Jyotiprakash
+Author-Jyotiprakash Pattanayak
